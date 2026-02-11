@@ -20,6 +20,15 @@ The current release focuses on the **GradLoc** demo patch:
 This repo is intentionally lightweight and patch-oriented, so you can directly apply changes to upstream `verl` and reproduce experiments.
 We plan to further package GradLoc as a cleaner, configurable feature with better veRL integration and upstream-merge readiness in future releases.
 
+The following arguments in `run_experiment.sh` are the core runtime knobs for GradLoc.
+They control trigger sensitivity, search budget, and dump path.
+
+```bash
+actor_rollout_ref.actor.grad_norm_threshold=640.0 \          # Spike trigger threshold for token-level grad norm
+actor_rollout_ref.actor.bisect_budget_steps=128 \            # Max binary-search budget (forward/backward probes)
+actor_rollout_ref.actor.bisect_dump_dir="${CKPTS_DIR}/bisect_dump" \  # Output dir for localization artifacts
+```
+
 ## 🧩 Base commit
 - Upstream: `verl`
 - Commit: `f9c855f7cf04d603c9546bc01776c74806a879c1`
