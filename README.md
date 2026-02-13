@@ -14,13 +14,17 @@
 [![](https://img.shields.io/github/contributors/Tencent-Hunyuan/GradLoc)](https://github.com/Tencent-Hunyuan/GradLoc/graphs/contributors)
 [![](https://img.shields.io/github/repo-size/Tencent-Hunyuan/GradLoc?color=green)](https://github.com/Tencent-Hunyuan/GradLoc)
 
-[![Blog](https://img.shields.io/badge/Blog-green?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=en)
+[![Blog](https://img.shields.io/badge/Blog-darkgreen?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=en)
 [![博客](https://img.shields.io/badge/博客-brightgreen?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=zh)
 [![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X
 )](TBD)
-[![XHS](https://img.shields.io/badge/XHS-red?style=for-the-badge)](TBD)
-[![Zhihu](https://img.shields.io/badge/Zhihu-blue?style=for-the-badge)](TBD)
-[![Zhihu](https://img.shields.io/badge/WeChat-green?style=for-the-badge)](TBD)
+[![XHS](https://img.shields.io/badge/XHS-%23FF2442?style=for-the-badge)](TBD)
+[![Zhihu](https://img.shields.io/badge/Zhihu-%230084FF?style=for-the-badge)](TBD)
+[![WX](https://img.shields.io/badge/WeChat-%2307C160?style=for-the-badge)](TBD)
+<!--[![arxiv](https://img.shields.io/badge/arXiv-%23B31B1B.svg?style=for-the-badge&logo=arXiv
+)](TBD)-->
+
+<img src="assets/hunyuan.png" alt="Tencent-Hunyuan" width="150"/>
 
 <p align="center">
   <strong> From black-box heuristics to white-box diagnostics for RLVR training collapse </strong><br/>
@@ -97,7 +101,7 @@ This rewrites `patches/gradloc.patch` from:
 
 ## 📬 Contact Us
 
-- Guanhua Huang: `kyrohuang@tencent.com`
+- Guanhua Huang: `carlan0974@gmail.com`
 - Tingqiang Xu: `xtq23@mails.tsinghua.edu.cn`
 - Jinbo Wang: `wangjinbo@stu.pku.edu.cn` (`wangjinbo@ustc.edu` for long-term contact)
 
