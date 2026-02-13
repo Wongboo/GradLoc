@@ -1,8 +1,12 @@
-# 🚀 GradLoc
+<!--# 🚀 GradLoc-->
 
 <div align="center">
 
-[![](https://img.shields.io/github/stars/Tencent-Hunyuan/GradLoc?style=social)](https://github.com/Tencent-Hunyuan/GradLoc)
+   <h1 align="center">
+      🚀 GradLoc
+   </h1>
+
+<!-- [![](https://img.shields.io/github/stars/Tencent-Hunyuan/GradLoc?style=social)](https://github.com/Tencent-Hunyuan/GradLoc) -->
 [![](https://img.shields.io/github/issues-raw/Tencent-Hunyuan/GradLoc)](https://github.com/Tencent-Hunyuan/GradLoc/issues)
 [![issue resolution](https://img.shields.io/github/issues-closed-raw/Tencent-Hunyuan/GradLoc)](https://github.com/Tencent-Hunyuan/GradLoc/issues?q=is%3Aissue%20state%3Aclosed)
 [![](https://img.shields.io/github/issues-pr-raw/Tencent-Hunyuan/GradLoc)](https://github.com/Tencent-Hunyuan/GradLoc/pulls)
@@ -11,14 +15,23 @@
 [![](https://img.shields.io/github/repo-size/Tencent-Hunyuan/GradLoc?color=green)](https://github.com/Tencent-Hunyuan/GradLoc)
 
 [![Blog](https://img.shields.io/badge/Blog-green?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=en)
-[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-green?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=zh)
+[![博客](https://img.shields.io/badge/博客-brightgreen?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=zh)
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X
+)](TBD)
+[![XHS](https://img.shields.io/badge/XHS-red?style=for-the-badge)](TBD)
+[![Zhihu](https://img.shields.io/badge/Zhihu-blue?style=for-the-badge)](TBD)
+[![Zhihu](https://img.shields.io/badge/WeChat-green?style=for-the-badge)](TBD)
+
+<p align="center">
+  <strong> From black-box heuristics to white-box diagnostics for RLVR training collapse </strong><br/>
+  <sub>Implementation patch for <strong>GradLoc</strong>, built on top of a fixed <tt>verl</tt> commit.</sub>
+</p>
+<!-- `GradLoc` is a lightweight, reproducible patch for diagnosing RLVR training collapse by localizing gradient spikes to culprit tokens, built on top of a fixed `verl` commit. -->
+
+![From black-box heuristics to white-box diagnostics](./assets/intro.png)
 
 </div>
 
-`GradLoc` is a lightweight, reproducible patch for diagnosing RLVR training collapse by localizing gradient spikes to culprit tokens, built on top of a fixed `verl` commit.
-
-![From black-box heuristics to white-box diagnostics](./assets/intro.png)
-*Figure 1. From black-box heuristics to white-box diagnostics for RLVR training collapse.*
 
 ## 🔍 Overview
 
@@ -84,7 +97,7 @@ This rewrites `patches/gradloc.patch` from:
 
 ## 📬 Contact Us
 
-- Guanhua Huang: `TBD`
+- Guanhua Huang: `kyrohuang@tencent.com`
 - Tingqiang Xu: `xtq23@mails.tsinghua.edu.cn`
 - Jinbo Wang: `wangjinbo@stu.pku.edu.cn` (`wangjinbo@ustc.edu` for long-term contact)
 
