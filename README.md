@@ -16,10 +16,10 @@
 
 [![Blog](https://img.shields.io/badge/Blog-darkgreen?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=en)
 [![博客](https://img.shields.io/badge/博客-brightgreen?style=for-the-badge)](https://hy.tencent.com/research/100015?langVersion=zh)
-[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X)](#-tbd)
-[![XHS](https://img.shields.io/badge/XHS-%23FF2442?style=for-the-badge)](#-tbd)
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X)](https://x.com/tencenthunyuan/status/2022542892024345015?s=46)
+[![XHS](https://img.shields.io/badge/XHS-%23FF2442?style=for-the-badge)](https://www.xiaohongshu.com/search_result/69902d3a000000000c036e72?xsec_token=ABvsDb-DkxR-bQfCdAI-Lr4XhbC8KjIGKwtjv_NJ6jAbs=&xsec_source=pc_search)
 [![Zhihu](https://img.shields.io/badge/Zhihu-%230084FF?style=for-the-badge)](#-tbd)
-[![WX](https://img.shields.io/badge/WeChat-%2307C160?style=for-the-badge)](#-tbd)
+[![WX](https://img.shields.io/badge/WeChat-%2307C160?style=for-the-badge)](https://mp.weixin.qq.com/s/Q3iiBg7ODdKgbMwdEfrNGQ?mpshare=1&scene=1&srcid=0214D2DAGlSx12FayxVWB7y7&sharer_shareinfo=f020bc3252cde725f8817a1762df5771&sharer_shareinfo_first=f020bc3252cde725f8817a1762df5771&version=4.1.41.99724&platform=mac#rd)
 <!--[![arxiv](https://img.shields.io/badge/arXiv-%23B31B1B.svg?style=for-the-badge&logo=arXiv
 )](#-tbd)-->
 
